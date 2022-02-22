@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Charlies Yacniel 👋
+
+
+👨🏽‍💻 I am a programmer with ➕ 4 years of experience in the software development life cycle, I specialize in the backend of applications created under the best development practices, design patterns 🎨 and data security ✅. In the frontend I am dedicated to the implementation of UI / UX of different client platforms that belong to the areas of:
+🏛 Banking and Finance
+📲 Mobile
+⛽️ Oil.
+This experience has been gained by implementing client-server applications ☁️, API 🔩, designing databases 📚 and implementing interfaces with third parties.
+Currently, I put together the Rubik's cube and study mathematics at UNAH 🧮.
 
 <!--
 **CharliesYacniel/charliesyacniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
